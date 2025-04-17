@@ -1,5 +1,5 @@
 {
-  "siteTitle": "ZACH 好棒棒｜貓碗產品官方網站",
+  "siteTitle": "ZACH THE BEST｜貓碗產品官方網站",
   "nav": {
     "home": "首頁",
     "faq": "問與答",
@@ -7,7 +7,7 @@
     "about": "品牌簡介"
   },
   "home": {
-    "headline": "ZACH 好棒棒",
+    "headline": "ZACH THE BEST",
     "intro": "最符合人體工學的貓碗，給貓貓最棒的餐桌禮儀！"
   },
   "faq": {
@@ -17,10 +17,28 @@
   },
   "products": {
     "title": "我們的產品",
-    "desc": "ZACH 好棒棒貓碗提供三種尺寸，適合各種貓咪需求。"
+    "desc": "ZACH THE BEST貓碗提供三種尺寸，適合各種貓咪需求。"
   },
   "about": {
-    "title": "關於 ZACH",
-    "desc": "ZACH 是來自台灣的品牌，專注打造舒適且優雅的貓咪用餐體驗。"
+    "title": "關於 ZACH THE BEST",
+    "desc": "ZACH THE BEST 是來自台灣的品牌，專注打造舒適且優雅的貓咪用餐體驗。"
+  },
+  "meta": {
+    "home": {
+      "title": "ZACH THE BEST｜貓碗產品官方網站",
+      "description": "給貓貓最好的碗，ZACH THE BEST，來自台灣的舒適美學。"
+    },
+    "products": {
+      "title": "產品介紹｜ZACH THE BEST",
+      "description": "三種尺寸，適合所有貓貓的美學餐桌。來看看哪一款適合你的貓！"
+    },
+    "faq": {
+      "title": "問與答｜ZACH THE BEST",
+      "description": "常見問題整理，讓你更了解 ZACH THE BEST的用心。"
+    },
+    "about": {
+      "title": "品牌簡介｜ZACH THE BEST",
+      "description": "ZACH THE BEST 是台灣貓碗品牌，致力於打造美學與實用並重的寵物餐具。"
+    }
   }
 }

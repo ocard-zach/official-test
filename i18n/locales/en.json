@@ -22,5 +22,23 @@
   "about": {
     "title": "About ZACH",
     "desc": "ZACH is a brand from Taiwan focused on elegant and comfortable dining for cats."
+  },
+  "meta": {
+    "home": {
+      "title": "ZACH THE BEST｜Official Cat Bowl Website",
+      "description": "Give your cat the best bowl. ZACH THE BEST – minimalist comfort from Taiwan."
+    },
+    "products": {
+      "title": "Products｜ZACH THE BEST",
+      "description": "Three sizes to match every cat’s dining style. Find the perfect bowl for your furry friend!"
+    },
+    "faq": {
+      "title": "FAQ｜ZACH THE BEST",
+      "description": "All your questions answered. Learn more about our design, material, and care."
+    },
+    "about": {
+      "title": "About Us｜ZACH THE BEST",
+      "description": "ZACH is a Taiwanese brand creating elegant, functional cat bowls with love and care."
+    }
   }
 }

@@ -16,9 +16,23 @@ export default defineNuxtConfig({
       { code: "en", name: "English", file: "en.json" },
       { code: "th", name: "ภาษาไทย", file: "th.json" },
     ],
+    detectBrowserLanguage: {
+      useCookie: false,
+    },
   },
   site: {
     url: "https://zach-the-best.netlify.app",
-    name: "ZACH 好棒棒",
+    name: "ZACH THE BEST",
+  },
+  app: {
+    head: {
+      meta: [
+        {
+          name: "google-site-verification",
+          content: "4cvfCrWC_-0HpiVOOS6wHtjkhzIgjcGAidZdq72rfyI",
+        },
+      ],
+      link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    },
   },
 });
