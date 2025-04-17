@@ -1,0 +1,26 @@
+{
+  "siteTitle": "ZACH THE BEST | Official Cat Bowl Website",
+  "nav": {
+    "home": "Home",
+    "faq": "FAQ",
+    "products": "Products",
+    "about": "About"
+  },
+  "home": {
+    "headline": "ZACH THE BEST - Ergonomic Cat Bowl",
+    "intro": "The most ergonomic cat bowl for the best dining etiquette."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What is the cat bowl made of?",
+    "a1": "Our bowls are made of food-grade ceramic, safe and non-toxic."
+  },
+  "products": {
+    "title": "Our Products",
+    "desc": "ZACH THE BEST cat bowls come in three sizes for all cat needs."
+  },
+  "about": {
+    "title": "About ZACH",
+    "desc": "ZACH is a brand from Taiwan focused on elegant and comfortable dining for cats."
+  }
+}
