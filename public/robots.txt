@@ -1,2 +1,3 @@
 User-Agent: *
 Disallow:
+Sitemap: https://zach-the-best.netlify.app/sitemap_index.xml
