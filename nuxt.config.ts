@@ -8,7 +8,13 @@ export default defineNuxtConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  modules: ["@nuxt/eslint", "@nuxtjs/i18n", "@nuxtjs/sitemap"],
+  modules: [
+    "@nuxt/eslint",
+    "@nuxtjs/i18n",
+    "@nuxtjs/sitemap",
+    "nuxt-seo-utils",
+    "nuxt-schema-org",
+  ],
   i18n: {
     defaultLocale: "zh-TW",
     locales: [
